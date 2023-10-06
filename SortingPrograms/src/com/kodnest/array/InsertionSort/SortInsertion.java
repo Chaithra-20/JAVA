@@ -1,0 +1,21 @@
+package com.kodnest.array.InsertionSort;
+
+public class SortInsertion {
+	void insertionSort(int arr[])
+	{
+		int item;
+		for(int i=0;i<=arr.length-1;i++)
+		{
+			int j=i-1;
+			item=arr[i];
+			
+			while(j>=0 && arr[j]>item)	
+			{
+				arr[j+1]=arr[j];
+				j--;
+			}
+			arr[j+1]=item;
+		}
+	}
+
+}
