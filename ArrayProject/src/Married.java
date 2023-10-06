@@ -1,0 +1,25 @@
+import java.util.Scanner;
+
+public class Married {
+
+	public static void main(String[] args) {
+		Scanner scan=new Scanner(System.in);
+		System.out.println("Enter the number of people");
+		//int a= scan.nextInt();
+		boolean arr[]=new boolean[scan.nextInt()];
+		
+		for(int i=0;i<=arr.length-1;i++)
+		{
+			System.out.println("enter the marital status of " +i+ " person ");
+			arr[i]=scan.nextBoolean();
+		}
+		
+		for(int i=0;i<=arr.length-1;i++)
+		{
+			System.out.print("enter the marital status of " +i+ " person "+arr[i]);
+			System.out.println();
+		}
+
+	}
+
+}

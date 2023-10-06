@@ -1,0 +1,16 @@
+import java.util.Scanner;
+
+public class PowerApp {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner scan = new Scanner(System.in);
+		int base=scan.nextInt();
+		int power=scan.nextInt();
+		
+		int res=(int)Math.pow(base,power);
+		System.out.println(res);
+
+	}
+
+}
