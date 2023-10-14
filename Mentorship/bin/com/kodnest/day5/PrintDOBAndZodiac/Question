@@ -1,0 +1,30 @@
+Consider yourself as a software developer in a company that produces horoscope analysis 
+applications. The company wants to develop a personalized horoscope
+feature that requires the user's birth date and Zodiac sign. 
+The birth date will be used for age calculations and the Zodiac sign will 
+be applied for horoscope-related assessments. With this objective, 
+your task is to write a Java program that reads the user's day and 
+month of birth as integers and their Zodiac sign as a String. 
+After the user provides this information, the program should print these 
+details on separate lines.
+
+Remember, incorrect data can misguide the user in terms of their horoscope 
+readings and might lead to loss of their trust in the application.
+
+Examples:
+
+Input:
+
+14 7 Cancer
+
+Output:
+
+Day of Birth: 14 Month of Birth: 7 Zodiac Sign: Cancer
+
+Input:
+
+21 10 Libra
+
+Output:
+
+Day of Birth: 21 Month of Birth: 10 Zodiac Sign: Libra

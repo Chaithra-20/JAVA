@@ -1,0 +1,15 @@
+You are required to write a Java application that receives user input for 
+five different integers and finds their average. In the provided boilerplate code, 
+you are given a prompt asking the user to input five integers. Your task is to 
+complete the code by calculating the average of the provided numbers and printing 
+it to the console.
+
+Examples:
+
+Input:
+
+15 10 7 21 30
+
+Output:
+
+Average: 16.6

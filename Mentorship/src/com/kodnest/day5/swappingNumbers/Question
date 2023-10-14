@@ -1,0 +1,17 @@
+Imagine you and your friend want to exchange your phone numbers. 
+But instead of simply telling each other the numbers, 
+you decide to do it in a more complex way for fun. 
+Write a Java method called swapTwoNumbers which takes two 
+integers as parameters (representing your and your friend's phone numbers), 
+and swaps the values of the two numbers without using a third variable. 
+The method should then print the numbers.
+
+Examples:
+
+Input:
+
+1234567890, 9876543210
+
+Output:
+
+9876543210, 1234567890

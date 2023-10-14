@@ -1,0 +1,6 @@
+Calculate perimeter of a square in java.
+Given the side length of the square equal to 5,
+WAJP TO Calculate its perimeter using the formula perimeter=4*side;
+
+example:
+output: 20;

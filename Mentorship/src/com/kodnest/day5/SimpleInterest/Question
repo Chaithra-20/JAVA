@@ -1,0 +1,15 @@
+As an intern at a local bank, you have been tasked with developing a simple interest 
+calculator for a new savings account. Write a Java method in the Main class called 
+calculateSimpleInterest(). This method should accept three parameters: 
+principal (double), rate (double), and time (double). It should calculate and 
+print the simple interest using the formula principal * rate * time.
+
+Examples:
+
+Input:
+
+10000 0.05 5
+
+Output:
+
+Simple Interest: 2500.0

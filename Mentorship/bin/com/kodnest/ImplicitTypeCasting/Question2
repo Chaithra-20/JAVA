@@ -1,0 +1,12 @@
+In programming software for a game, you need to convert character values to ASCII integer
+equivalents for processing. For this task, write a Java program to demonstrate implicit 
+casting from char to int. Initialize a char variable with the character 'A', 
+cast it to an int implicitly, and print its value.
+
+Examples:
+
+Input:
+
+Output:
+
+65

@@ -1,0 +1,19 @@
+You have been appointed as an intern at a local school in your town. 
+The school has decided to digitize the process of students' entry into 
+various extracurricular activities. They want to have a computer-based 
+solution that would help them keep better track of who is taking up these activities.
+
+For the initial phase, they have assigned you the task to make a 
+Java application that can take a student's name as input (a single word) 
+and prints it out. Please note that in this rudimentary version, they want 
+to accept only a single word as the student's name to keep things simple and fast-paced.
+
+Examples:
+
+Input:
+
+Enter the student's name: Tom
+
+Output:
+
+The student's name is: Tom

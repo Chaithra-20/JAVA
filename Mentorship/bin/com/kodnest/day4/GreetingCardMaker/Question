@@ -1,0 +1,25 @@
+You are developing a greeting card application. The application should have a 
+feature to generate a greeting message by taking two inputs: the greeting and 
+the name of the recipient. Write a Java program that declares a method printGreeting(). 
+This method should take two string parameters: greeting and name. When called, it 
+should print the greeting and the name.
+
+Examples:
+
+Input:
+
+Hello
+
+John
+
+Output:
+
+"Hello, John"
+
+Input:
+
+"Bye", "Rohit"
+
+Output:
+
+"Bye, Rohit"

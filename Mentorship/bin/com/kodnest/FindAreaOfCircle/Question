@@ -1,0 +1,15 @@
+Calculating Area of a Circle in Java
+
+You're tasked with coding a graphical tool that can draw
+and calculate areas for different shapes. 
+One feature of the tool is to compute the area of a circle.
+ Write a Java program that calculates and prints the area 
+ of a circle with a radius of 10.
+
+Examples:
+
+Input:
+
+Output:
+
+314.15926535897

@@ -1,0 +1,12 @@
+Create a program that declares a long variable named l
+and initializes it with a value of 9999999999. 
+Use the System.out.println statement to print the value 
+of l to the console.
+
+Examples:
+
+Input:
+
+Output:
+
+9999999999

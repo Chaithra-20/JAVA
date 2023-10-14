@@ -1,0 +1,11 @@
+Write a Java program where you declare a char variable ch2 
+with a value 'P'. The program should print the ASCII value
+ of ch2.
+
+Examples:
+
+Input:
+
+Output:
+
+80

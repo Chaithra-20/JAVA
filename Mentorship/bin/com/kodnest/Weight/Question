@@ -1,0 +1,12 @@
+Think you're working in an e-commerce fulfillment center in New Delhi. You 
+need to pack two types of items in a parcel. Due to packaging limitations, 
+you can only include half the weight of the second item type.
+Write a Java program that calculates the total parcel weight.
+
+Examples:
+
+Input:
+
+Output:
+
+Parcel Weight

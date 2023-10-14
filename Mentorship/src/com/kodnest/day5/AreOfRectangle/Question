@@ -1,0 +1,16 @@
+You are building an application for a construction company. 
+The application should calculate the area of a rectangle based on its length and width. 
+Write a Java program that declares a method printProduct(). 
+This method should take two double numbers as parameters: 
+length and width representing the length and width of the rectangle. 
+When called, it should print the product of these numbers (the area of the rectangle).
+
+Examples:
+
+Input:
+
+5.0, 10.0
+
+Output:
+
+50.0

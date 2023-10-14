@@ -1,0 +1,14 @@
+Consider a situation where you're working on a digital processing application 
+which transmits ASCII values across another conventional system that only handles 
+character data. You would ultimately convert integer ASCII values into their respective 
+characters. Therefore, write a Java program to demonstrate explicit casting from int to char. 
+Declare an int variable and assign the ASCII value 65, then explicitly cast it to a char, 
+finally, print its value.
+
+Examples:
+
+Input:
+
+Output:
+
+A

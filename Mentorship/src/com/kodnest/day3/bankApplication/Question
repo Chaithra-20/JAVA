@@ -1,0 +1,3 @@
+Scenario:  You are developing a banking application. Create a class Account that has attributes
+accountNumber, accountHolder, and balance. Implement a method deposit to add money to
+the account and withdraw to remove money from the account.

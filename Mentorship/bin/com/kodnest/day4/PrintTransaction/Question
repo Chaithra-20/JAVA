@@ -1,0 +1,13 @@
+You are developing a software for a bank. You need to write a Java program to 
+read two long values representing two large transactions from the user and compute 
+their sum. This sum represents the total amount of money transferred.
+
+Examples:
+
+Input:
+
+90000000000000 10000000000000
+
+Output:
+
+total money transferred is 10000000000

@@ -1,0 +1,11 @@
+You are developing a billing application for a grocery store. 
+The application should calculate the total cost based on the price of three items. 
+Write a Java program that declares a method printSum(). 
+This method should take two integers as parameters: price1 ,price2 and ,price3 
+representing the price of three items. When called it should print the sum of these prices.
+
+Examples:
+
+Input:
+
+100 200 50

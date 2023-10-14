@@ -1,0 +1,23 @@
+Java language offers two types of casting: implicit
+(widening) and explicit (narrowing). 
+Implicit type casting is crucial in scenarios when
+we are dealing with types of different sizes. 
+For example, consider a real-world situation where
+a small Internet of Things (IoT) device is sending
+data in compact and efficient byte format. 
+This data, when processed by high-capacity 
+software systems built to handle larger data types,
+might need an on-the-fly adjustment for successful 
+processing. For this task, you need to demonstrate 
+the concept of implicit type casting in Java programming. 
+Initialize a byte variable with a value of 10, 
+implicitly cast it to short, int, and long data types, and then print their values.
+
+Examples:
+
+Input:
+
+Output:
+10
+10
+10

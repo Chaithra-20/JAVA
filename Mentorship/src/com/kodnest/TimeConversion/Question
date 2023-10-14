@@ -1,0 +1,13 @@
+You're developing a time tracking software and you need
+ to convert time units for certain calculations. 
+ Write a Java program that converts and prints the 
+ given 'minutes' variable (45 minutes) from minutes to 
+ seconds.
+
+Examples:
+
+Input:
+
+Output:
+
+2700

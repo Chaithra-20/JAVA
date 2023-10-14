@@ -1,0 +1,13 @@
+Create a program that declares two integer variables,
+dividend with a value of 50, and divisor with a value of 3. 
+Perform the division operation using the / operator and 
+store the quotient in an integer variable named quotient. 
+Finally, print the value of quotient to the console.
+
+Examples:
+
+Input:
+
+Output:
+
+16

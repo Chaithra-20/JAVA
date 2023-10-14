@@ -1,0 +1,5 @@
+Scenario:
+You are developing a library application.
+create a class Book with attributes title, author and isbn 
+(International standard book Number). Implement a method displayInfo
+then print out the book information .

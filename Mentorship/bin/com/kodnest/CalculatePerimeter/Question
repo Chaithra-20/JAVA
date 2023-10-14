@@ -1,0 +1,15 @@
+You're building a mobile app for interior designers 
+that helps them calculate dimensions. 
+One of the features is to calculate and 
+display the perimeter of a square. 
+Given the side length of the square equals 5, 
+write a Java program to calculate its perimeter 
+using the formula perimeter = 4 * side.
+
+Examples:
+
+Input:
+
+Output:
+
+20
