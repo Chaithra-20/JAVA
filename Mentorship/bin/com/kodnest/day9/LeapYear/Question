@@ -1,0 +1,28 @@
+Question Title: Leap Year Checker
+
+Question Description:
+
+You are given a year. Write a Java program that determines whether it is a leap year or not.
+
+The rules for determining a leap year are as follows:
+
+· A year is a leap year if it is divisible by 4 and not divisible by 100, 
+or if it is divisible by 400.
+
+Write a Java program that checks if a given year is a leap year.
+
+Sample Input 1:
+
+2020
+
+Sample Output 1:
+
+2020 is a leap year.
+
+Sample Input 2:
+
+2021
+
+Sample Output 2:
+
+2021 is not a leap year.

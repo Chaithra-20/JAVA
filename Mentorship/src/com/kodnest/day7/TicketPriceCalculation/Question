@@ -1,0 +1,38 @@
+Problem 2: Ticket Price Calculation
+
+Question Title: Ticket Price Calculation
+
+Question Description:
+
+You are tasked with creating a program for a movie theater that 
+calculates ticket prices based on age and movie type. 
+Write a Java program that takes two inputs: 
+age (an integer representing the age of the customer) and movietype(String).
+
+The ticket prices are determined as follows:
+
+· For children (age 12 and below) attending a matinee show, the ticket price is $7.
+
+· For children attending a regular show, the ticket price is $10.
+
+· For adults (age 13 and above) attending a matinee show, the ticket price is $10.
+
+· For adults attending a regular show, the ticket price is $15.
+
+Write a Java program that calculates and outputs the ticket price.
+
+Sample Input 1:
+
+10 Matnie
+
+Sample Output 1:
+
+7
+
+Sample Input 2:
+
+16 Regular
+
+Sample Output 2:
+
+15

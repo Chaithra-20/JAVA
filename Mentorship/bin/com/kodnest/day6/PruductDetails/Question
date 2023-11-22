@@ -1,0 +1,3 @@
+Scenario: You are building a simple e-commerce system. 
+Create a class Product with attributes productName, price, and quantityInStock. 
+Implement a method displayProductInfo that prints out the product details

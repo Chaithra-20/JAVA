@@ -1,0 +1,20 @@
+Question Description:
+
+You are building a weather advisory system for a travel application. 
+Write a Java program that provides travel advice based on the weather conditions.
+
+The program should take two inputs: temperature 
+(an integer representing the temperature in degrees Celsius) and isRaining 
+(a boolean indicating whether it's raining or not).
+
+The advisory system is defined as follows:
+
+· If the temperature is below 10 degrees Celsius, it's advised to bring a coat.
+
+· If the temperature is between 10 and 20 degrees Celsius (inclusive) and it's raining, 
+it's advised to bring an umbrella.
+
+· If the temperature is between 10 and 20 degrees Celsius (inclusive) and it's not raining, 
+no special advice is needed.
+
+· If the temperature is above 20 degrees Celsius, it's advised to wear light clothing.

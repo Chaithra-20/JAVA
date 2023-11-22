@@ -1,0 +1,37 @@
+Problem 1: Calculate Grade
+
+Question Title: Calculate Grade
+
+Question Description:
+
+Imagine you are tasked with creating a grading system for a school. 
+Write a Java program that takes a student's score as input and outputs their 
+corresponding grade based on the following scale:
+
+· 90 and above: A
+
+· 80-89: B
+
+· 70-79: C
+
+· 60-69: D
+
+· Below 60: F
+
+Write a Java program that accomplishes this.
+
+Sample Input 1:
+
+85
+
+Sample Output 1:
+
+B
+
+Sample Input 2:
+
+72
+
+Sample Output 2
+
+C

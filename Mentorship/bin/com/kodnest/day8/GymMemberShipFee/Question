@@ -1,0 +1,40 @@
+Question Title: Gym Membership Fee
+
+Question Description:
+
+You are developing a program for a gym that calculates the monthly membership fee 
+for its customers. Write a Java program that determines the membership fee based on 
+the customer's age and membership type.
+
+The program should take two inputs: age (an integer representing the age of the customer) 
+and membershipType (a string indicating the type of membership - "standard" or "premium").
+
+The membership fees are defined as follows:
+
+· For customers under 18 years old, the fee is $30 per month.
+
+· For customers between 18 and 65 years old (inclusive):
+
+· Standard membership: $50 per month
+
+· Premium membership: $80 per month
+
+· For customers above 65 years old, the fee is $40 per month.
+
+Write a Java program that calculates and outputs the monthly membership fee.
+
+Sample Input 1:
+
+25 premium
+
+Sample Output 1:
+
+80
+
+Sample Input 2:
+
+16 standard
+
+Sample Output 2:
+
+30

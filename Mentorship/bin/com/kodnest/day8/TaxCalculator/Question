@@ -1,0 +1,32 @@
+Question Title: Tax Calculator
+
+Question Description:
+
+You are building a simple tax calculator program for a financial application. 
+Write a Java program that calculates the total tax amount based on the income and tax brackets.
+
+The tax brackets are defined as follows:
+
+· Income up to $10,000: 5% tax
+
+· Income from $10,001 to $20,000: 10% tax
+
+· Income from $20,001 to $50,000: 15% tax
+
+· Income above $50,000: 20% tax
+
+Sample Input 1:
+
+8000
+
+Sample Output 1:
+
+400.0
+
+Sample Input 2:
+
+30000
+
+Sample Output 2:
+
+4500.0
